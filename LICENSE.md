@@ -1,4 +1,4 @@
-# 
+# أصلي JetBrains WebStorm سكريبتات لـ Mac OS | آلي JetBrains WebStorm سكريبتات لـ PC Windows. مع لوحة الأوامر و إدارة مفاتيح SSH — مُحسَّن لأقصى أداء على جميع المنصات.
 
 
 
